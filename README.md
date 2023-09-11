@@ -13,3 +13,11 @@ You can edit the properties of the generated poster. These include:
 - Select a save directory.
 - Set the properties mentioned above (or use defaults).
 - Press **Generate Poster**.
+
+# Demo
+The following is a demonstration of the program.
+![](demo.gif)
+
+The output of the program using _Star Wars: The Empire Strikes Back_ as input.
+
+![alt text](example.png)
